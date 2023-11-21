@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="title_login">Login User</string>
+    <string name="title_register">Register User</string>
+    <string name="msg_login">Masukkan dulu data kamu ya!</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="error_email">Masukkan Email yang benar!</string>
+    <string name="error_password">Password tidak boleh kurang dari 8</string>
+    <string name="login_to_register">Belum punya akun? Register disini</string>
+    <string name="register_to_login">Sudah punya akun? login disini</string>
+    <string name="username">Username</string>
+
+    <string name="error_field">Bagian ini harus diisi!</string>
+    <string name="register">Register</string>
+
+    <string name="error_image">Tambahkan gambar terlebih dulu!</string>
+
+    <string name="story">Deskripsi story</string>
+    <string name="add_story">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="upload">upload</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="desc">Description</string>
+</resources>
